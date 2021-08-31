@@ -1,0 +1,27 @@
+.geral{
+    background-color: #f4f4f8;
+}
+
+.carousel {
+    margin-left: 410px;
+    max-width: 1075px;   
+}
+
+.titulo2{
+    text-align: center;
+    color: #33333a;
+    margin-top: 20px;
+}
+
+.card-group{
+    padding: 20px;
+    width: 1341px;
+    height: 800px;
+    margin-left: 244px;   
+}
+
+.card{
+    padding: 50px;
+    margin-top: 10px;
+    border: 1px solid black;   
+}
